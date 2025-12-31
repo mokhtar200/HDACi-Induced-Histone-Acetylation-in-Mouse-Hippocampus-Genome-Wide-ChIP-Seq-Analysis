@@ -23,7 +23,11 @@ GTF file: Mus_musculus.GRCm39.109.gtf (for promoters)
 Analysis Overview:
 
 Read WIG files for TSA and Vehicle samples for all four histone marks.
+
+
 Define promoter regions based on mouse GTF annotation.
+
 Calculate average ChIP signal per promoter region.
+
 Compute Fold Change (TSA vs Vehicle) for each histone mark.
 Visualize results using heatmaps to identify hyperacetylated and hypoacetylated genes.
